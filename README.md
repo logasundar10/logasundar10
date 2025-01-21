@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm dhyaneshwaran</h1>
+<h1 align="center">Hi 👋, I'm LOGASUNDAR S</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl1b2d6emYwM2NuNno2OTEyemE3NWF0OW43OXV0MzZ0ZjdpZTVrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhyaneshwaran m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyaneshwaran m" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/logasundar-s-73b521324/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BId3qn4%2BjQvqAlCIIGo24RQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logasundar s" height="30" width="40" /></a>
 <a href="https://kaggle.com/dhyaneshwaran_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhyaneshwaran_m" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhyaneshwarankmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhyaneshwarankmr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhyaneshwarankmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhyaneshwarankmr" height="30" width="40" /></a>
